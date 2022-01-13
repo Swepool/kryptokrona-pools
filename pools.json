@@ -1,10 +1,10 @@
 {
   "pools": [
-    "pool.kryptokrona.se",
-    "swepool.org",
-    "norpool.org",
-    "gamersnest.org",
-    "drakpool.com",
-    "newpool.pw"
+    "pool.kryptokrona.se:3333",
+    "swepool.org:3333",
+    "norpool.org:3333",
+    "gamersnest.org:3333",
+    "drakpool.com:3333",
+    "newpool.pw:3333"
   ]
 }
